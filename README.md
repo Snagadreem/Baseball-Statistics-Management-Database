@@ -12,12 +12,12 @@
 
 * **Query 1**: Finds the top 5 single season batting averages among players in the database, and outputs their information, their batting average, and the year.
 	* Run **Top5AvgQuery.sql**
-* **Query 2:**: Finds the names and player ids of every player that is on the Red Sox or Royals, is under the age of 25, and is a pitcher or has a season with a batting average over .300.
+* **Query 2**: Finds the names and player ids of every player that is on the Red Sox or Royals, is under the age of 25, and is a pitcher or has a season with a batting average over .300.
 	* Run **AgeAndPitcherAndAvgQuery.sql**
-* **Query 3:**: Groups all position players in the database by position and outputs the average batting average for each position.
+* **Query 3**: Groups all position players in the database by position and outputs the average batting average for each position.
 	* Run **PoaitionAvgsGroups.sql**
-* **Query 4:**: Finds all "Cy Young Winner" pitchers, which in this case means all pitchers with seasons with ERAs under 1.00.
+* **Query 4**: Finds all "Cy Young Winner" pitchers, which in this case means all pitchers with seasons with ERAs under 1.00.
 	* Run **PitcherERASubquery.sql**
-* **Query 5:**: Finds all players in the database with a season with a batting average above .400.
+* **Query 5**: Finds all players in the database with a season with a batting average above .400.
 	* Run **Join3BattingAvgQuery.sql**
 * **All queries have images of examole outputs in the github repo named by query number.**
