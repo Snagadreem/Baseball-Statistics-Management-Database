@@ -20,3 +20,4 @@
 	* Run **PitcherERASubquery.sql**
 * **Query 5:**: Finds all players in the database with a season with a batting average above .400.
 	* Run **Join3BattingAvgQuery.sql**
+* **All queries have images of examole outputs in the github repo named by query number.**
